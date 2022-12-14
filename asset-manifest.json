@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abisheksatnur24/abisheksatnur24.github.io/static/css/main.19627155.css",
+    "main.js": "/abisheksatnur24/abisheksatnur24.github.io/static/js/main.7261876c.js",
+    "static/media/me.png": "/abisheksatnur24/abisheksatnur24.github.io/static/media/me.d885499dc6e94a176cae.png",
+    "static/media/resume.pdf": "/abisheksatnur24/abisheksatnur24.github.io/static/media/resume.25900afd2399deb95743.pdf",
+    "static/media/portfolio1.jpg": "/abisheksatnur24/abisheksatnur24.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "index.html": "/abisheksatnur24/abisheksatnur24.github.io/index.html",
+    "main.19627155.css.map": "/abisheksatnur24/abisheksatnur24.github.io/static/css/main.19627155.css.map",
+    "main.7261876c.js.map": "/abisheksatnur24/abisheksatnur24.github.io/static/js/main.7261876c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19627155.css",
+    "static/js/main.7261876c.js"
+  ]
+}
